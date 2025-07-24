@@ -1,0 +1,1257 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Project.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Project.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\css\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\css\\StyleSheet.css"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\css\\animate.min.css"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\css\\flaticon.css"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\css\\gijgo.css",
+      "PackagePath": "staticwebassets\\css\\gijgo.css"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\css\\slick.css",
+      "PackagePath": "staticwebassets\\css\\slick.css"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\css\\slicknav.css",
+      "PackagePath": "staticwebassets\\css\\slicknav.css"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\css\\style.map",
+      "PackagePath": "staticwebassets\\css\\style.map"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\css\\theme-default.css",
+      "PackagePath": "staticwebassets\\css\\theme-default.css"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\css\\theme-default.map",
+      "PackagePath": "staticwebassets\\css\\theme-default.map"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\css\\themify-icons.css"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\fonts\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.woff2"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\fonts\\flaticon.css",
+      "PackagePath": "staticwebassets\\fonts\\flaticon.css"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\fonts\\gijgo-material.eot",
+      "PackagePath": "staticwebassets\\fonts\\gijgo-material.eot"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\fonts\\gijgo-material.svg",
+      "PackagePath": "staticwebassets\\fonts\\gijgo-material.svg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\fonts\\gijgo-material.ttf",
+      "PackagePath": "staticwebassets\\fonts\\gijgo-material.ttf"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\fonts\\gijgo-material.woff",
+      "PackagePath": "staticwebassets\\fonts\\gijgo-material.woff"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\fonts\\themify.eot"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\fonts\\themify.svg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\fonts\\themify.woff"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\Comfort.jpeg",
+      "PackagePath": "staticwebassets\\img\\Comfort.jpeg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\FavoritePasta.jpeg",
+      "PackagePath": "staticwebassets\\img\\FavoritePasta.jpeg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\ICO.png",
+      "PackagePath": "staticwebassets\\img\\ICO.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\ICO22.png",
+      "PackagePath": "staticwebassets\\img\\ICO22.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\Profile.jpg",
+      "PackagePath": "staticwebassets\\img\\Profile.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\ProfilePhotos\\Profile2.jpg",
+      "PackagePath": "staticwebassets\\img\\ProfilePhotos\\Profile2.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\Sala.jpeg",
+      "PackagePath": "staticwebassets\\img\\Sala.jpeg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\WeekEnd.jpeg",
+      "PackagePath": "staticwebassets\\img\\WeekEnd.jpeg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\WhatsApp Image 2023-07-07 at 12.22.23.jpg",
+      "PackagePath": "staticwebassets\\img\\WhatsApp Image 2023-07-07 at 12.22.23.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\b0269-books.jpg",
+      "PackagePath": "staticwebassets\\img\\b0269-books.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\b0269-books.png",
+      "PackagePath": "staticwebassets\\img\\b0269-books.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\banner\\WhatsApp Image 2024-05-03 at 18.57.32_ec3868d9.jpg.png",
+      "PackagePath": "staticwebassets\\img\\banner\\WhatsApp Image 2024-05-03 at 18.57.32_ec3868d9.jpg.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\banner\\accordion.png",
+      "PackagePath": "staticwebassets\\img\\banner\\accordion.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\banner\\b0269-books.png",
+      "PackagePath": "staticwebassets\\img\\banner\\b0269-books.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\banner\\banner.png",
+      "PackagePath": "staticwebassets\\img\\banner\\banner.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\banner\\banner_testmonial.png",
+      "PackagePath": "staticwebassets\\img\\banner\\banner_testmonial.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\banner\\bradcam.png",
+      "PackagePath": "staticwebassets\\img\\banner\\bradcam.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\banner\\pizaaa.png",
+      "PackagePath": "staticwebassets\\img\\banner\\pizaaa.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\banner\\portfolio_bg.png",
+      "PackagePath": "staticwebassets\\img\\banner\\portfolio_bg.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\banner\\study_banner.png",
+      "PackagePath": "staticwebassets\\img\\banner\\study_banner.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\banner\\vecteezy_recipe-book-on-wooden-table-background-banner_13224085.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\vecteezy_recipe-book-on-wooden-table-background-banner_13224085.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\blog\\author.png",
+      "PackagePath": "staticwebassets\\img\\blog\\author.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\blog\\blog_1.png",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_1.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\blog\\blog_2.png",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_2.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\blog\\blog_3.png",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_3.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\blog\\blog_4.png",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_4.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\blog\\learn_about_bg.png",
+      "PackagePath": "staticwebassets\\img\\blog\\learn_about_bg.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\blog\\single_blog_1.png",
+      "PackagePath": "staticwebassets\\img\\blog\\single_blog_1.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\blog\\single_blog_2.png",
+      "PackagePath": "staticwebassets\\img\\blog\\single_blog_2.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\blog\\single_blog_3.png",
+      "PackagePath": "staticwebassets\\img\\blog\\single_blog_3.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\blog\\single_blog_4.png",
+      "PackagePath": "staticwebassets\\img\\blog\\single_blog_4.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\blog\\single_blog_5.png",
+      "PackagePath": "staticwebassets\\img\\blog\\single_blog_5.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\blog\\slide_thumb_1.png",
+      "PackagePath": "staticwebassets\\img\\blog\\slide_thumb_1.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\case_study\\1.png",
+      "PackagePath": "staticwebassets\\img\\case_study\\1.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\case_study\\2.png",
+      "PackagePath": "staticwebassets\\img\\case_study\\2.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\case_study\\3.png",
+      "PackagePath": "staticwebassets\\img\\case_study\\3.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\case_study\\4.png",
+      "PackagePath": "staticwebassets\\img\\case_study\\4.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\case_study\\5.png",
+      "PackagePath": "staticwebassets\\img\\case_study\\5.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\case_study\\6.png",
+      "PackagePath": "staticwebassets\\img\\case_study\\6.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\case_study\\case_banner.png",
+      "PackagePath": "staticwebassets\\img\\case_study\\case_banner.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\comment\\comment_1.png",
+      "PackagePath": "staticwebassets\\img\\comment\\comment_1.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\comment\\comment_2.png",
+      "PackagePath": "staticwebassets\\img\\comment\\comment_2.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\comment\\comment_3.png",
+      "PackagePath": "staticwebassets\\img\\comment\\comment_3.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\download.jpeg",
+      "PackagePath": "staticwebassets\\img\\download.jpeg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\download.png",
+      "PackagePath": "staticwebassets\\img\\download.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\elements\\a.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\a.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\elements\\a2.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\a2.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\elements\\d.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\d.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\elements\\disabled-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\disabled-check.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\elements\\disabled-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\disabled-radio.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\elements\\f1.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f1.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\elements\\f2.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f2.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\elements\\f3.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f3.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\elements\\f4.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f4.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\elements\\f5.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f5.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\elements\\f6.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f6.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\elements\\f7.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f7.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\elements\\f8.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f8.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\elements\\g1.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g1.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\elements\\g2.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g2.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\elements\\g3.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g3.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\elements\\g4.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g4.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\elements\\g5.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g5.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\elements\\g6.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g6.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\elements\\g7.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g7.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\elements\\g8.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g8.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\elements\\primary-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\primary-check.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\elements\\primary-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\primary-radio.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\elements\\success-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\success-check.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\elements\\success-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\success-radio.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\footer_logo.png",
+      "PackagePath": "staticwebassets\\img\\footer_logo.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\offers\\1.png",
+      "PackagePath": "staticwebassets\\img\\offers\\1.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\offers\\2.png",
+      "PackagePath": "staticwebassets\\img\\offers\\2.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\offers\\3.png",
+      "PackagePath": "staticwebassets\\img\\offers\\3.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\pattern\\patrn.png",
+      "PackagePath": "staticwebassets\\img\\pattern\\patrn.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\pattern\\patrn_1.png",
+      "PackagePath": "staticwebassets\\img\\pattern\\patrn_1.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\portfolio\\1.png",
+      "PackagePath": "staticwebassets\\img\\portfolio\\1.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\portfolio\\2.png",
+      "PackagePath": "staticwebassets\\img\\portfolio\\2.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\portfolio\\3.png",
+      "PackagePath": "staticwebassets\\img\\portfolio\\3.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\portfolio\\4.png",
+      "PackagePath": "staticwebassets\\img\\portfolio\\4.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\portfolio\\5.png",
+      "PackagePath": "staticwebassets\\img\\portfolio\\5.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\post\\next.png",
+      "PackagePath": "staticwebassets\\img\\post\\next.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\post\\post_1.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_1.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\post\\post_10.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_10.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\post\\post_2.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_2.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\post\\post_3.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_3.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\post\\post_4.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_4.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\post\\post_5.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_5.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\post\\post_6.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_6.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\post\\post_7.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_7.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\post\\post_8.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_8.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\post\\post_9.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_9.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\post\\preview.png",
+      "PackagePath": "staticwebassets\\img\\post\\preview.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\14COOKING-SALMON-WITH-LEMON-superJumbo.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\14COOKING-SALMON-WITH-LEMON-superJumbo.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\240_F_626338716_hp6WQrptDy9C8VivEszu9pMZcpSLbeyu.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\240_F_626338716_hp6WQrptDy9C8VivEszu9pMZcpSLbeyu.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\240_F_715596052_fr24xCaMOh4zDP2UIbIY66ryVQ0yjkkb.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\240_F_715596052_fr24xCaMOh4zDP2UIbIY66ryVQ0yjkkb.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\360_F_96198695_oyJg0I7ELpXI6608FI942PX9LlRRyEnd.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\360_F_96198695_oyJg0I7ELpXI6608FI942PX9LlRRyEnd.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\Asian.jpeg",
+      "PackagePath": "staticwebassets\\img\\recepie\\Asian.jpeg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\Asian.png",
+      "PackagePath": "staticwebassets\\img\\recepie\\Asian.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\Diet.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\Diet.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\F64BBF9F-C1E6-4305-9CE4-C23D65C85E93-850x850.png",
+      "PackagePath": "staticwebassets\\img\\recepie\\F64BBF9F-C1E6-4305-9CE4-C23D65C85E93-850x850.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\One-pot-spiced-roast-chicken-05079e9.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\One-pot-spiced-roast-chicken-05079e9.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\Vegan.jpeg",
+      "PackagePath": "staticwebassets\\img\\recepie\\Vegan.jpeg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\XSSSMKYCWE.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\XSSSMKYCWE.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\Y2IUUEN8LO.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\Y2IUUEN8LO.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\appetizer.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\appetizer.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\asian.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\asian.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\banner.png",
+      "PackagePath": "staticwebassets\\img\\recepie\\banner.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\bbq_pulled_pork.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\bbq_pulled_pork.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\beef.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\beef.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\ben-lei-flFd8L7_B3g-unsplash.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\ben-lei-flFd8L7_B3g-unsplash.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\breakfast.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\breakfast.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\broccoli_stuffed_chicken.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\broccoli_stuffed_chicken.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\cajun_shrimp_sausage.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\cajun_shrimp_sausage.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\chicken.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\chicken.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\coconut_shrimp.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\coconut_shrimp.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\dessert.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\dessert.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\donut-sprinkles_GI8MR5LOLC.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\donut-sprinkles_GI8MR5LOLC.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\download.jpeg",
+      "PackagePath": "staticwebassets\\img\\recepie\\download.jpeg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\emanuel-ekstrom-qxvhDhjFy4o-unsplash.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\emanuel-ekstrom-qxvhDhjFy4o-unsplash.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\greek.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\greek.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\h.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\h.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\healthy.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\healthy.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\honey_balsamic_brussels.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\honey_balsamic_brussels.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\honey_garlic_chicken.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\honey_garlic_chicken.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\images (1).jpeg",
+      "PackagePath": "staticwebassets\\img\\recepie\\images (1).jpeg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\images (2).jpeg",
+      "PackagePath": "staticwebassets\\img\\recepie\\images (2).jpeg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\images (3).jpeg",
+      "PackagePath": "staticwebassets\\img\\recepie\\images (3).jpeg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\images (4).jpeg",
+      "PackagePath": "staticwebassets\\img\\recepie\\images (4).jpeg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\indian.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\indian.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\istockphoto-1044989370-612x612.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\istockphoto-1044989370-612x612.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\istockphoto-1189709277-612x612.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\istockphoto-1189709277-612x612.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\istockphoto-908165344-612x612.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\istockphoto-908165344-612x612.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\italian.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\italian.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\jo-sonn-M-tzZD5z720-unsplash.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\jo-sonn-M-tzZD5z720-unsplash.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\lemon_butter_shrimp.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\lemon_butter_shrimp.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\lemon_herb_chicken.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\lemon_herb_chicken.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\lemon_herb_salmon.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\lemon_herb_salmon.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\lime_cilantro_tacos.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\lime_cilantro_tacos.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\lolo.png",
+      "PackagePath": "staticwebassets\\img\\recepie\\lolo.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\mango_chicken.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\mango_chicken.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\maple_pork_chops.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\maple_pork_chops.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\mason-jar-ice-cream1-1654195042.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\mason-jar-ice-cream1-1654195042.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\max-mota-N6BTNbaKZMo-unsplash.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\max-mota-N6BTNbaKZMo-unsplash.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\mediterranean.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\mediterranean.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\merlin_180932583_7cf08465-f282-4d4c-a1c7-4a770fd10a72-mediumThreeByTwo252.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\merlin_180932583_7cf08465-f282-4d4c-a1c7-4a770fd10a72-mediumThreeByTwo252.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\mexican.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\mexican.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\mushroom_risotto.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\mushroom_risotto.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\mushroom_spinach_pasta.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\mushroom_spinach_pasta.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\orange_glazed_salmon.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\orange_glazed_salmon.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\pasta.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\pasta.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\photo-1511690656952-34342bb7c2f2.avif",
+      "PackagePath": "staticwebassets\\img\\recepie\\photo-1511690656952-34342bb7c2f2.avif"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\recepie_details.png",
+      "PackagePath": "staticwebassets\\img\\recepie\\recepie_details.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\recpie_1.png",
+      "PackagePath": "staticwebassets\\img\\recepie\\recpie_1.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\recpie_2.png",
+      "PackagePath": "staticwebassets\\img\\recepie\\recpie_2.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\recpie_3.png",
+      "PackagePath": "staticwebassets\\img\\recepie\\recpie_3.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\recpie_4.png",
+      "PackagePath": "staticwebassets\\img\\recepie\\recpie_4.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\recpie_5.png",
+      "PackagePath": "staticwebassets\\img\\recepie\\recpie_5.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\recpie_6.png",
+      "PackagePath": "staticwebassets\\img\\recepie\\recpie_6.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\royal_red_prawn.37.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\royal_red_prawn.37.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\salad.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\salad.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\sandwich.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\sandwich.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\seafood.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\seafood.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\shrimp_scampi.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\shrimp_scampi.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\side_dish.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\side_dish.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\soup.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\soup.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\teriyaki_beef_stir_fry.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\teriyaki_beef_stir_fry.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\thai.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\thai.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\thai_basil_chicken.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\thai_basil_chicken.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\tomato_basil_soup.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\tomato_basil_soup.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\vegetarian.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\vegetarian.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\vino-li-TqOEGdRNowY-unsplash.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\vino-li-TqOEGdRNowY-unsplash.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\recepie\\zucchini_fries.jpg",
+      "PackagePath": "staticwebassets\\img\\recepie\\zucchini_fries.jpg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\svg_icon\\feature_1.svg",
+      "PackagePath": "staticwebassets\\img\\svg_icon\\feature_1.svg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\svg_icon\\feature_2.svg",
+      "PackagePath": "staticwebassets\\img\\svg_icon\\feature_2.svg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\svg_icon\\feature_3.svg",
+      "PackagePath": "staticwebassets\\img\\svg_icon\\feature_3.svg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\svg_icon\\feature_4.svg",
+      "PackagePath": "staticwebassets\\img\\svg_icon\\feature_4.svg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\svg_icon\\feature_5.svg",
+      "PackagePath": "staticwebassets\\img\\svg_icon\\feature_5.svg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\svg_icon\\feature_6.svg",
+      "PackagePath": "staticwebassets\\img\\svg_icon\\feature_6.svg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\svg_icon\\seo_1.svg",
+      "PackagePath": "staticwebassets\\img\\svg_icon\\seo_1.svg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\svg_icon\\seo_2.svg",
+      "PackagePath": "staticwebassets\\img\\svg_icon\\seo_2.svg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\svg_icon\\seo_3.svg",
+      "PackagePath": "staticwebassets\\img\\svg_icon\\seo_3.svg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\testmonial\\1.png",
+      "PackagePath": "staticwebassets\\img\\testmonial\\1.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\testmonial\\2.png",
+      "PackagePath": "staticwebassets\\img\\testmonial\\2.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\testmonial\\banner.png",
+      "PackagePath": "staticwebassets\\img\\testmonial\\banner.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\testmonial\\quote.svg",
+      "PackagePath": "staticwebassets\\img\\testmonial\\quote.svg"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\testmonial\\thumb.png",
+      "PackagePath": "staticwebassets\\img\\testmonial\\thumb.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\video\\2.png",
+      "PackagePath": "staticwebassets\\img\\video\\2.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\video\\big.png",
+      "PackagePath": "staticwebassets\\img\\video\\big.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\video\\big_1.png",
+      "PackagePath": "staticwebassets\\img\\video\\big_1.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\video\\sm2.png",
+      "PackagePath": "staticwebassets\\img\\video\\sm2.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\video\\small_1.png",
+      "PackagePath": "staticwebassets\\img\\video\\small_1.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\img\\video\\small_sm1.png",
+      "PackagePath": "staticwebassets\\img\\video\\small_sm1.png"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\js\\ajax-form.js",
+      "PackagePath": "staticwebassets\\js\\ajax-form.js"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\js\\contact.js",
+      "PackagePath": "staticwebassets\\js\\contact.js"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\js\\gijgo.min.js",
+      "PackagePath": "staticwebassets\\js\\gijgo.min.js"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\js\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\js\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\js\\jquery.ajaxchimp.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.ajaxchimp.min.js"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\js\\jquery.form.js",
+      "PackagePath": "staticwebassets\\js\\jquery.form.js"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\js\\jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.scrollUp.min.js"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\js\\jquery.slicknav.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.slicknav.min.js"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\js\\mail-script.js",
+      "PackagePath": "staticwebassets\\js\\mail-script.js"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\js\\nice-select.min.js",
+      "PackagePath": "staticwebassets\\js\\nice-select.min.js"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\js\\plugins.js"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\js\\scrollIt.js",
+      "PackagePath": "staticwebassets\\js\\scrollIt.js"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\js\\slick.min.js"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\js\\vendor\\jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\js\\vendor\\modernizr-3.5.0.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\modernizr-3.5.0.min.js"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\js\\wow.min.js"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\scss\\_about.scss",
+      "PackagePath": "staticwebassets\\scss\\_about.scss"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\scss\\_accordion_area.scss",
+      "PackagePath": "staticwebassets\\scss\\_accordion_area.scss"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\scss\\_blog.scss",
+      "PackagePath": "staticwebassets\\scss\\_blog.scss"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\scss\\_blog_part.scss",
+      "PackagePath": "staticwebassets\\scss\\_blog_part.scss"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\scss\\_bradcam.scss",
+      "PackagePath": "staticwebassets\\scss\\_bradcam.scss"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\scss\\_btn.scss",
+      "PackagePath": "staticwebassets\\scss\\_btn.scss"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\scss\\_case_details.scss",
+      "PackagePath": "staticwebassets\\scss\\_case_details.scss"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\scss\\_case_study.scss",
+      "PackagePath": "staticwebassets\\scss\\_case_study.scss"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\scss\\_contact.scss",
+      "PackagePath": "staticwebassets\\scss\\_contact.scss"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\scss\\_counter.scss",
+      "PackagePath": "staticwebassets\\scss\\_counter.scss"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\scss\\_department.scss",
+      "PackagePath": "staticwebassets\\scss\\_department.scss"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\scss\\_discuss.scss",
+      "PackagePath": "staticwebassets\\scss\\_discuss.scss"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\scss\\_download.scss",
+      "PackagePath": "staticwebassets\\scss\\_download.scss"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\scss\\_elements.scss",
+      "PackagePath": "staticwebassets\\scss\\_elements.scss"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\scss\\_emergency_contact.scss",
+      "PackagePath": "staticwebassets\\scss\\_emergency_contact.scss"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\scss\\_experts.scss",
+      "PackagePath": "staticwebassets\\scss\\_experts.scss"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\scss\\_extend.scss",
+      "PackagePath": "staticwebassets\\scss\\_extend.scss"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\scss\\_features.scss",
+      "PackagePath": "staticwebassets\\scss\\_features.scss"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\scss\\_gallery.scss",
+      "PackagePath": "staticwebassets\\scss\\_gallery.scss"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\scss\\_header.scss",
+      "PackagePath": "staticwebassets\\scss\\_header.scss"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\scss\\_portfolio.scss",
+      "PackagePath": "staticwebassets\\scss\\_portfolio.scss"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\scss\\_prising.scss",
+      "PackagePath": "staticwebassets\\scss\\_prising.scss"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\scss\\_recepie.scss",
+      "PackagePath": "staticwebassets\\scss\\_recepie.scss"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\scss\\_recipe_details.scss",
+      "PackagePath": "staticwebassets\\scss\\_recipe_details.scss"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\scss\\_responsive.scss",
+      "PackagePath": "staticwebassets\\scss\\_responsive.scss"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\scss\\_section_title.scss",
+      "PackagePath": "staticwebassets\\scss\\_section_title.scss"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\scss\\_service.scss",
+      "PackagePath": "staticwebassets\\scss\\_service.scss"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\scss\\_slick-nav.scss",
+      "PackagePath": "staticwebassets\\scss\\_slick-nav.scss"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\scss\\_slider.scss",
+      "PackagePath": "staticwebassets\\scss\\_slider.scss"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\scss\\_tesmonial.scss",
+      "PackagePath": "staticwebassets\\scss\\_tesmonial.scss"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\scss\\_varriable.scss",
+      "PackagePath": "staticwebassets\\scss\\_varriable.scss"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\scss\\_video.scss",
+      "PackagePath": "staticwebassets\\scss\\_video.scss"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\scss\\style.scss"
+    },
+    {
+      "Id": "E:\\CIE Year 1\\CIE Spring 2024\\CIE206_SP24_T[6]_Final\\Project\\Project\\wwwroot\\scss\\theme-default.scss",
+      "PackagePath": "staticwebassets\\scss\\theme-default.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Project.props",
+      "PackagePath": "build\\Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Project.props",
+      "PackagePath": "buildMultiTargeting\\Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Project.props",
+      "PackagePath": "buildTransitive\\Project.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
