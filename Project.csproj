@@ -1,0 +1,55 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\css\StyleSheet.css" />
+    <None Include="wwwroot\img\recepie\photo-1511690656952-34342bb7c2f2.avif" />
+    <None Include="wwwroot\scss\style.scss" />
+    <None Include="wwwroot\scss\theme-default.scss" />
+    <None Include="wwwroot\scss\_about.scss" />
+    <None Include="wwwroot\scss\_accordion.scss" />
+    <None Include="wwwroot\scss\_accordion_area.scss" />
+    <None Include="wwwroot\scss\_blog.scss" />
+    <None Include="wwwroot\scss\_blog_part.scss" />
+    <None Include="wwwroot\scss\_bradcam.scss" />
+    <None Include="wwwroot\scss\_btn.scss" />
+    <None Include="wwwroot\scss\_case_details.scss" />
+    <None Include="wwwroot\scss\_case_study.scss" />
+    <None Include="wwwroot\scss\_contact.scss" />
+    <None Include="wwwroot\scss\_counter.scss" />
+    <None Include="wwwroot\scss\_department.scss" />
+    <None Include="wwwroot\scss\_discuss.scss" />
+    <None Include="wwwroot\scss\_download.scss" />
+    <None Include="wwwroot\scss\_elements.scss" />
+    <None Include="wwwroot\scss\_emergency_contact.scss" />
+    <None Include="wwwroot\scss\_experts.scss" />
+    <None Include="wwwroot\scss\_extend.scss" />
+    <None Include="wwwroot\scss\_features.scss" />
+    <None Include="wwwroot\scss\_footer.scss" />
+    <None Include="wwwroot\scss\_gallery.scss" />
+    <None Include="wwwroot\scss\_header.scss" />
+    <None Include="wwwroot\scss\_mixins.scss" />
+    <None Include="wwwroot\scss\_portfolio.scss" />
+    <None Include="wwwroot\scss\_prising.scss" />
+    <None Include="wwwroot\scss\_recepie.scss" />
+    <None Include="wwwroot\scss\_recipe_details.scss" />
+    <None Include="wwwroot\scss\_responsive.scss" />
+    <None Include="wwwroot\scss\_section_title.scss" />
+    <None Include="wwwroot\scss\_service.scss" />
+    <None Include="wwwroot\scss\_slick-nav.scss" />
+    <None Include="wwwroot\scss\_slider.scss" />
+    <None Include="wwwroot\scss\_tesmonial.scss" />
+    <None Include="wwwroot\scss\_varriable.scss" />
+    <None Include="wwwroot\scss\_video.scss" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
+  </ItemGroup>
+
+</Project>
