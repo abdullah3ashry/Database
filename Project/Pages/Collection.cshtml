@@ -1,0 +1,232 @@
+﻿@page
+@model Project.Pages.CollectionModel
+@{
+
+    ViewData["Title"] = "Collections";
+    Layout = "_Layout_Profile"; 
+}
+<div class="bradcam_area bradcam_bg_1">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12">
+                <div class="bradcam_text text-center">
+                    <h3 style="color: black;">Your Collections</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@* 
+
+<div class="container mt-5">
+    <h1 class="mb-30 text-center">Collections</h1>
+    <h3 class="mb-30 text-center">Put Your Favourite recipes in collections</h3>
+
+    <div class="progress-table-wrap">
+        <div class="progress-table">
+            <div class="table-head">
+                <div class="Number">#</div>
+                <div class="Name">Name</div>
+                <div class="Email">Collection Page</div>
+            </div>
+            <div class="table-row">
+                <div class="Number">01</div>
+                <div style="font-size:30px; font-family:'Times New Roman'; font-weight:bold;" class="Name">Diet</div>
+                <div style="font-size:30px; font-family:'Times New Roman'; font-weight:bold;" class="Email">
+                    <a href="/Collection_Page">Diet</a>
+                </div>
+            </div>
+            <div class="table-row">
+                <div class="Number">02</div>
+                <div style ="font-size:30px; font-family:'Times New Roman'; font-weight:bold;" class="Name">Vegan</div>
+                <div style ="font-size:30px; font-family:'Times New Roman'; font-weight:bold;" class="Email">
+                    <a href="/Collection_Page">Vegan</a>
+
+                </div>
+            </div>
+            <div class="table-row">
+                <div class="Number">03</div>
+                <div style="font-size:30px; font-family:'Times New Roman'; font-weight:bold;"  class="Name">Asian</div>
+                <div style="font-size:30px; font-family:'Times New Roman'; font-weight:bold;" class="Email">
+                    <a href="/Collection_Page">Asian</a>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+</div>
+<style>
+    body {
+        padding-bottom: 250px; 
+    }
+</style> *@
+@* 
+
+<div class="container mt-5">
+    <div class="collection">
+        <h1 class="mb-30 text-center">Diet</h1>
+        <h3 class="mb-30 text-center">Put Your Favourite recipes in collections</h3>
+
+        <div class="row">
+            <div class="col-xl-4 col-lg-4 col-md-6">
+                <div class="single_recepie text-center">
+                    <div class="recepie_thumb">
+                        <img src="img/recepie/recpie_1.png" alt="">
+                    </div>
+                    <h3>Zesty Lemon Herb Roasted Salmon</h3>
+                    <span>Appetizer</span>
+                    <p>Time Needs: 25 Mins</p>
+                    <a href="Zesty Lemon" class="line_btn">View Full Recipe</a>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-6">
+                <div class="single_recepie text-center">
+                    <div class="recepie_thumb">
+                        <img src="img/recepie/recpie_2.png" alt="">
+                    </div>
+                    <h3>Mouthwatering Maple Glazed Pork Chops</h3>
+                    <span>Appetizer</span>
+                    <p>Time Needs: 30 Mins</p>
+                    <a href="/Index" class="line_btn">View Full Recipe</a>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-6">
+                <div class="single_recepie text-center">
+                    <div class="recepie_thumb">
+                        <img src="img/recepie/recpie_3.png" alt="">
+                    </div>
+                    <h3>Creamy Mushroom and Spinach Pasta</h3>
+                    <span>Appetizer</span>
+                    <p>Time Needs: 20 Mins</p>
+                    <a href="/Index1" class="line_btn">View Full Recipe</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Add some space between collections -->
+    <div style="height: 50px;"></div>
+
+    <div class="collection">
+        <h1 class="mb-30 text-center">Vegan</h1>
+        <h3 class="mb-30 text-center">Put Your Favourite recipes in collections</h3>
+
+        <div class="row">
+            <!-- Recipes for Vegan collection -->
+        </div>
+    </div>
+
+    <!-- Add some space between collections -->
+    <div style="height: 50px;"></div>
+
+    <div class="collection">
+        <h1 class="mb-30 text-center">Asian</h1>
+        <h3 class="mb-30 text-center">Put Your Favourite recipes in collections</h3>
+
+        <div class="row">
+            <!-- Recipes for Asian collection -->
+        </div>
+    </div>
+    <div class="add-collection-form">
+        <h2 class="mb-3">Add New Collection</h2>
+        <form action="/add-collection" method="post">
+            <div class="form-group">
+                <label for="collectionName">Collection Name:</label>
+                <input type="text" class="form-control" id="collectionName" name="collectionName" required>
+            </div>
+            <button type="submit" class="btn btn-primary">Add Collection</button>
+        </form>
+    </div>
+
+</div>
+<style>
+
+    body{
+        padding-bottom: 250px;
+    }
+</style> *@
+
+
+@* 
+<div class="recepie_area">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-4 col-lg-4 col-md-6">
+                <div class="single_recepie text-center">
+                    <div class="recepie_thumb">
+                        <img src="img//recepie/Diet.jpg" alt="">
+                    </div>
+                    <h3>Diet</h3>
+                    <a href="/Collection_Page" class="line_btn">View the category</a>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-6">
+                <div class="single_recepie text-center">
+                    <div class="recepie_thumb">
+                        <img src="img/recepie/Vegan.jpeg" alt="">
+                    </div>
+                    <h3>Vegan</h3>
+                    <a href="#" class="line_btn">View the category</a>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-6">
+                <div class="single_recepie text-center">
+                    <div class="recepie_thumb">
+                        <img src="img/recepie/Asian.png" alt="">
+                    </div>
+                    <h3>Asian</h3>
+                    <a href="#" class="line_btn">View the category</a>
+                </div>
+            </div>
+          
+        </div>
+    <div class="add-collection-form">
+        <h2 class="mb-3">Add New Collection</h2>
+        <form action="/add-collection" method="post">
+            <div class="form-group">
+                <label for="collectionName">Collection Name:</label>
+                <input type="text" class="form-control" id="collectionName" name="collectionName" required>
+            </div>
+            <button type="submit" class="btn btn-primary">Add Collection</button>
+        </form>
+    </div>
+    </div>
+</div> *@
+
+
+
+
+<div class="recepie_area">
+    <div class="container">
+        <div class="row">
+            @foreach (var collection in Model.Collections)
+            {
+                <div class="col-xl-4 col-lg-4 col-md-6">
+                    <div class="single_recepie text-center">
+                        <div class="recepie_thumb">
+                            <!-- You can replace the image source with the actual image URL or path -->
+                            <img src="img/@collection.Image" alt="">
+                        </div>
+                        <h3>@collection.Description</h3>
+                        <!-- Assuming you have a Collection Page for each collection -->
+@*                         <a href="/Collection_Page?CollectionID=@collection.CollectionId" class="line_btn">View the category</a>
+ *@                        <a href="/Collection_Page?CollectionID=@collection.CollectionId&Description=@collection.Description" class="line_btn">View the category</a>
+
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+@* <div class="add-collection-form">
+    <h2 class="mb-3">Add New Collection</h2>
+    <form action="/add-collection" method="post">
+        <div class="form-group">
+            <label for="collectionName">Collection Name:</label>
+            <input type="text" class="form-control" id="collectionName" name="collectionName" required>
+        </div>
+        <button type="submit" class="btn btn-primary">Add Collection</button>
+    </form>
+</div> *@

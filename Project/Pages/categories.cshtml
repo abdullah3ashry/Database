@@ -1,0 +1,39 @@
+﻿@page
+@model Project.Pages.categoriesModel
+@{
+    ViewData["Title"] = "Categories";
+
+}
+
+<div class="bradcam_area bradcam_bg_cate">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12">
+                <div class="bradcam_text text-center">
+                    <h3 style="color: black;">Categories</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="recepie_area">
+    <div class="container">
+        <div class="row">
+            @foreach (var c in Model.categories)
+            {
+                <div class="col-xl-4 col-lg-4 col-md-6">
+                    <div class="single_recepie text-center">
+                        <div class="recepie_thumb">
+                            <img src="img/recepie/@c.Photo" alt="">
+                        </div>
+                        <h3>@c.CategoryName</h3>
+
+                        <a href="/one_category?CategoryId=@c.CategoryId" class="line_btn">View The category</a>
+                    </div>
+                </div>
+            }
+
+        </div>
+    </div>
+</div>

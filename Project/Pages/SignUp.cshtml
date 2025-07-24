@@ -1,0 +1,117 @@
+﻿@* @page
+@model Project.Pages.Index1Model
+@{
+    ViewData["Title"] = "Sign Up";
+    Layout = "_Layout2";
+}
+<body>
+    <div class="container">
+        <div class="form-wrapper">
+            <h2>Sign Up</h2>
+            <form action="#" method="post">
+                <label class="fs-3"> First Name</label>
+                <input type="text" class="form-control" asp-for="@Model.U.FName" /> 
+                <span asp-validation-for="@Model.FName" class="text-danger"></span>
+                <label class="fs-3"> Last Name</label>
+                <input type="text" class="form-control" asp-for="@Model.U.LName" />
+                <label class="fs-3"> UserName</label>
+                <input type="text" class="form-control" asp-for="@Model.U.UName" />
+                <span asp-validation-for="@Model.UName" class="text-danger"></span>
+
+                <label class="fs-3"> Email </label>
+                <input type="email" class="form-control" placeholder="Name@Gmail.com" asp-for="@Model.Email" /> 
+                <span asp-validation-for="@Model.U.Email" class="text-danger"></span>
+                <label class="fs-3"> Password</label>
+                <input type="password" class="form-control" asp-for="@Model.U.Password" /> 
+                <span asp-validation-for="Password" class="text-danger"> </span>
+                <label class="fs-3"> Confirm Password</label>
+                <input type="password" class="form-control" asp-for="@Model.ConfirmPassword" />
+                <span asp-validation-for="Password" class="text-danger"> </span>
+                <label for="birthday">Birthday</label>
+                <input type="date" class="form-control" asp-for="@Model.U.Bdate" name="birthday" class="date-input"><br >
+                <button class="btn btn-primary"> Sign Up</button>
+            </form>
+            <p>Already Have An Account? <a href="Login">Login</a></p>
+        </div>
+    </div>
+</body>
+ *@
+ @page
+@model Project.Pages.Index1Model
+@{
+    ViewData["Title"] = "Sign Up";
+    Layout = "_Layout";
+}
+
+
+<div class="slider_area">
+    <div class="single_slider  d-flex align-items-center slider_bg_1">
+        <div class="container">
+            <div class="row align-items-center justify-content-center">
+                <div class="col-xl-8 ">
+                    <div class="slider_text text-center">
+                        <div class="text">
+                            <h3>
+Welcome To Our Community
+</h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<body>
+    <div class="container">
+        <div class="row justify-content-center mt-5">
+            <div class="col-md-6">
+                <div class="card">
+                    <div class="card-body">
+                        <h2 class="card-title text-center mb-4">Sign Up</h2>
+            <form method="post">
+                            <label style="font-family:'Times New Roman'; font-size:25px; color:black;" class="fs-2">First Name</label>  
+                <span asp-validation-for="FName" class="text-danger"></span>
+                            <input type="text" class="form-control" asp-for="FName" />  
+
+                            <label style="font-family:'Times New Roman'; font-size:25px; color:black;" class="fs-2">Last Name</label>
+                <span asp-validation-for="LName" class="text-danger"></span>
+                            <input type="text" class="form-control" asp-for="LName" />  
+                 
+                            <label style ="font-family:'Times New Roman'; font-size:25px; color:black;" class="fs-2">UserName</label>
+                <span asp-validation-for="UName" class="text-danger"></span>
+                            <input type="text" class="form-control" asp-for="UName" />  
+
+                            <label style="font-family:'Times New Roman'; font-size:25px; color:black;" class="fs-2">Email</label>
+                <span asp-validation-for="Email" class="text-danger"></span>
+                            <input type="email" class="form-control" placeholder="Name@Gmail.com" asp-for="Email" />  
+                           
+
+                            <label style ="font-family:'Times New Roman'; font-size:26px; color:black;" class="fs-2">Password</label>
+                <span asp-validation-for="Password" class="text-danger"></span>
+                            <input type="password" class="form-control" asp-for="Password" />
+
+                            <label style="font-family:'Times New Roman'; font-size:25px; color:black;" class="fs-2">Confirm Password</label>
+                <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                            <input type="password" class="form-control" asp-for="ConfirmPassword" />
+
+                            <label style="font-family:'Times New Roman'; font-size:25px; color:black;" class="fs-2">Phone</label>
+                <span asp-validation-for="Phone" class="text-danger"></span>
+                            <input type="text" class="form-control" asp-for="Phone" />
+
+                <label for="birthday" style="font-family:'Times New Roman'; font-size:25px; color:black;" class="fs-2   ">Birthday</label>
+                <span asp-validation-for="Bdate" class="text-danger"></span>
+                <input type="date" class="form-control" asp-for="Bdate" class="date-input" /> 
+                <br>
+
+                            <button type="submit" class="btn btn-primary btn-block mt-4">Sign Up</button>
+                        </form>
+                        <p class="mt-3 text-center">
+                            <span style="font-size: 18px;">Already have an account?</span>
+                            <a href="Login" class="text-info" style="font-size: 18px;">Login</a>
+                        </p>
+                    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+</body>

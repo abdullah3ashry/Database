@@ -1,0 +1,150 @@
+﻿@page
+@model Project.Pages.SearchModel
+@{
+    ViewData["Title"] = "Search";
+    Layout = "_Layout";
+}
+<div class="bradcam_area bradcam_bg_1">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12">
+                <div class="bradcam_text text-center">
+                    <h3>Search</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-lg-8">
+            <div class="card mt-5">
+                <div class="card-body">
+                    <h2 class="text-center mb-4">Search </h2>
+                    <form method="get" action="/search">
+                        <div class="input-group mb-3">
+                            <input type="text" name="q" class="form-control" placeholder="Search..." aria-label="Search" aria-describedby="button-addon2">
+                            <button class="btn btn-primary" type="submit" id="button-addon2"><i class="ti-search"></i> Search</button>
+                        </div>
+                    </form>
+                    <!-- Your search results or content here -->
+
+                    <div class="recepie_area plus_padding">
+                        <div class="container">
+                    <h2 class="text-center mb-4">Search Results</h2>
+                            <div class="row">
+                                <div class="col-xl-4 col-lg-4 col-md-6">
+                                    <div class="single_recepie text-center">
+                                        <div class="recepie_thumb">
+                                            <img src="img/recepie/recpie_1.png" alt="">
+                                        </div>
+                                        <h3>Zesty Lemon Herb Roasted Salmon</h3>
+                                        <span>Appetizer</span>
+                                        <p>Time Needs: 25 Mins</p>
+                                        <a href="Zesty Lemon" class="line_btn">View Full Recipe</a>
+                                    </div>
+                                </div>
+                                <div class="col-xl-4 col-lg-4 col-md-6">
+                                    <div class="single_recepie text-center">
+                                        <div class="recepie_thumb">
+                                            <img src="img/recepie/recpie_2.png" alt="">
+                                        </div>
+                                        <h3>Mouthwatering Maple Glazed Pork Chops</h3>
+                                        <span>Appetizer</span>
+                                        <p>Time Needs: 30 Mins</p>
+                                        <a href="/Index" class="line_btn">View Full Recipe</a>
+                                    </div>
+                                </div>
+                                <div class="col-xl-4 col-lg-4 col-md-6">
+                                    <div class="single_recepie text-center">
+                                        <div class="recepie_thumb">
+                                            <img src="img/recepie/recpie_3.png" alt="">
+                                        </div>
+                                        <h3>Creamy Mushroom and Spinach Pasta</h3>
+                                        <span>Appetizer</span>
+                                        <p>Time Needs: 20 Mins</p>
+                                        <a href="/Index1" class="line_btn">View Full Recipe</a>
+                                    </div>
+                                </div>
+                                <div class="col-xl-4 col-lg-4 col-md-6">
+                                    <div class="single_recepie text-center">
+                                        <div class="recepie_thumb">
+                                            <img src="img/recepie/recpie_1.png" alt="">
+                                        </div>
+                                        <h3>Crispy Baked Coconut Shrimp</h3>
+                                        <span>Appetizer</span>
+                                        <p>Time Needs: 20 Mins</p>
+                                        <a href="#" class="line_btn">View Full Recipe</a>
+                                    </div>
+                                </div>
+                                <div class="col-xl-4 col-lg-4 col-md-6">
+                                    <div class="single_recepie text-center">
+                                        <div class="recepie_thumb">
+                                            <img src="img/recepie/recpie_2.png" alt="">
+                                        </div>
+                                        <h3>Honey Balsamic Glazed Brussels Sprouts</h3>
+                                        <span>Appetizer</span>
+                                        <p>Time Needs: 25 Mins</p>
+                                        <a href="#" class="line_btn">View Full Recipe</a>
+                                    </div>
+                                </div>
+                                <div class="col-xl-4 col-lg-4 col-md-6">
+                                    <div class="single_recepie text-center">
+                                        <div class="recepie_thumb">
+                                            <img src="img/recepie/recpie_3.png" alt="">
+                                        </div>
+                                        <h3>Crispy Baked Parmesan Zucchini Fries</h3>
+                                        <span>Appetizer</span>
+                                        <p>Time Needs: 25 Mins</p>
+                                        <a href="#" class="line_btn">View Full Recipe</a>
+                                    </div>
+                                </div>
+                                <div class="col-xl-4 col-lg-4 col-md-6">
+                                    <div class="single_recepie text-center">
+                                        <div class="recepie_thumb">
+                                            <img src="img/recepie/recpie_1.png" alt="">
+                                        </div>
+                                        <h3>Creamy Tomato Basil Tortellini Soup</h3>
+                                        <span>Appetizer</span>
+                                        <p>Time Needs: 30 Mins</p>
+                                        <a href="#" class="line_btn">View Full Recipe</a>
+                                    </div>
+                                </div>
+                                <div class="col-xl-4 col-lg-4 col-md-6">
+                                    <div class="single_recepie text-center">
+                                        <div class="recepie_thumb">
+                                            <img src="img/recepie/recpie_2.png" alt="">
+                                        </div>
+                                        <h3>Cheesy Broccoli Stuffed Chicken</h3>
+                                        <span>Appetizer</span>
+                                        <p>Time Needs: 35 Mins</p>
+                                        <a href="#" class="line_btn">View Full Recipe</a>
+                                    </div>
+                                </div>
+                                <div class="col-xl-4 col-lg-4 col-md-6">
+                                    <div class="single_recepie text-center">
+                                        <div class="recepie_thumb">
+                                            <img src="img/recepie/recpie_3.png" alt="">
+                                        </div>
+                                        <h3>Zesty Lime Cilantro Chicken Tacos</h3>
+                                        <span>Appetizer</span>
+                                        <p>Time Needs: 20 Mins</p>
+                                        <a href="#" class="line_btn">View Full Recipe</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
