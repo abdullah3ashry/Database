@@ -1,0 +1,155 @@
+﻿@page
+@model Project.Pages.ProfileModel
+@{
+    ViewData["Title"] = "Profile";
+    Layout = "_Layout_Profile";
+}
+<div class="slider_area">
+    <div class="single_slider  d-flex align-items-center slider_bg_1">
+        <div class="container">
+            <div class="row align-items-center justify-content-center">
+                <div class="col-xl-8 ">
+                    <div class="slider_text text-center">
+                        <div class="text">
+                            <h3>
+Profile
+</h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+    <div class="container-fluid mt-5">
+        <div class="row">
+            <div class="col-md-7 offset-md-3">
+            <h1 style=" color:blueviolet;font-size: 70px;font-family:'Times New Roman';font-weight:bold; " class=" text-center mb-4">Profile Information</h1>
+
+            <div class="card">
+                    <div class="card-body">
+                        <div class="row">
+                            <div class="col-md-4">
+                                <!-- Separate container for profile picture -->
+                                <div class="profile-picture-container text-center">
+                                    <img src="~/img/ProfilePhotos/@Model.U.PP" class="img-fluid profile-picture" alt="Profile Picture">
+                                </div>
+                            </div>
+                            <div class="col-md-8">
+                                <!-- Separate container for profile information -->
+                                <div class="profile-info">
+                                    
+                                
+                                
+                                <h1 style="color: darkblue; font-weight: bold;">@Model.U.FName @Model.U.LName    </h1>
+                                
+                                    <p style="color: black; font-size: 20px;"> Email:  @Model.U.Email</p>
+                                    <p style="color: black; font-size: 20px;">UserName: @Model.U.UName</p>
+                                    <p style="color: black; font-size: 20px;">Id: @Model.U.ID</p>
+                                    <p style="color: black; font-size: 20px;">Birthdate: @Model.U.Bdate</p>
+                                <p style="color: black; font-size: 20px;">PhoneNumber : @Model.U.Phone</p>
+                                <p style="color: black; font-size: 20px;">Bio: @Model.U.Bio</p>
+
+
+
+                                    <!-- Add more profile information here -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <div class="card-footer text-right">
+                <div class="text-right">
+                        <form asp-page-handler="delete" method="post">
+                    <button id="signOutBtn" class="btn btn-danger">Sign Out</button>
+                        </form>
+                </div>
+                <br >
+                    <button id="editInfoBtn" class="btn btn-primary">Edit Info</button>
+                </div>
+                </div>
+            <div id="editInfoForm" class="card mt-4" style="display:none;">
+                <div class="card-body">
+                    <form method="post">
+                        <div class="form-group">
+                            <label for="FName">First Name</label>
+                            <input type="text" id="FName" name="FName" class="form-control" value="@Model.U.FName">
+                        </div>
+                        <div class="form-group">
+                            <label for="Lname">Last Name</label>
+                            <input type="text" id="Lname" name="LName" class="form-control" value="@Model.U.LName">
+                        </div>
+
+                        <div class="form-group">
+                        <label for="Lname">Username</label>
+                        <input type="text" id="Uname" name="UName" class="form-control" value="@Model.U.UName">
+                </div>
+                        <div class="form-group">
+                            <label for="Email">Email</label>
+                            <input type="email" id="Email" name="Email" class="form-control" value="@Model.U.Email">
+                        </div>
+                        <div class="form-group">
+                            <label for="Phone">Phone Number</label>
+                            <input type="text" id="Phone" name="Phone" class="form-control" value="@Model.U.Phone">
+                        </div>
+                        <div class="form-group">
+                            <label for="PP">Profile Picture</label>
+                            <textarea id="PP" name="PP" class="form-control">@Model.U.PP</textarea>
+                        </div>
+                        <div class="form-group">
+                            <label for="Password">Password</label>
+                            <input type="password" id="Password" name="Password" class="form-control" value="@Model.U.Password">
+                        </div>
+                        <div class="form-group">
+                           
+                            <label for="birthday">Birthday</label>
+                            <input type="date" id="birthday" class="form-control" value="@Model.U.Bdate" class="date-input" />
+                        </div>
+                        <div class="form-group">
+                            <label for="Bio">Bio</label>
+                            <textarea id="Bio" name="Bio" class="form-control">@Model.U.Bio</textarea>
+                        </div>
+                       
+                        <div class="form-group text-right">
+                            <button type="submit" class="btn btn-success">Save</button>
+                        </div>
+                    </form>
+            </div>
+        </div>
+    </div>
+
+    <style>
+        .profile-picture {
+            max-width: 200px; /* Adjust the width as needed */
+            height: auto;
+            border: 2px solid #ccc; /* Add border */
+            border-radius: 10px; /* Add border-radius for rectangular shape */
+        }
+
+        .profile-info {
+            padding-left: 20px; /* Add padding to separate profile info from picture */
+        }
+
+    body {
+        padding-bottom: 250px; /* Adjust the value as needed */
+    }
+    </style>
+
+        @section Scripts {
+            <script>
+                document.getElementById("editInfoBtn").onclick = function () 
+                {
+                    document.getElementById("editInfoForm").style.display = 'block';    
+                };
+
+                document.getElementById("signOutBtn").onclick = function () {
+                    if (confirm("اطلع برااااااااااااااااااااااااااا")) 
+                    {
+                        // Perform sign out actions here, such as ending the session
+                        // and redirecting to the index page
+                        // For example:
+                    }
+                };
+            </script>
+        }

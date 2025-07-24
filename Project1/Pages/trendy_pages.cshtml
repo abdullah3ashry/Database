@@ -1,0 +1,48 @@
+﻿@page
+@model Project.Pages.trendy_pagesModel
+@{
+    ViewData["Title"] = "Trendy Recipes";
+}
+
+<div class="bradcam_area bradcam_bg_1">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12">
+                <div class="bradcam_text text-center">
+                    <h3>Recipes</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- /bradcam_area  -->
+<!-- recepie_area_start  -->
+<div class="recepie_area">
+    <div class="container">
+        <div class="row">
+
+
+            @foreach (var r in Model.Recipes)
+            {
+                <div class="col-xl-4 col-lg-4 col-md-6">
+                    <div class="single_recepie text-center">
+                        <div class="recepie_thumb">
+                            <img src="img/recepie/@r.Image" alt="">
+                        </div>
+                        <h3>@r.Description</h3>
+                        <p>Time Needs: @r.CookingTime</p>
+                        <form method="post">
+                            <input type="hidden" name="description" value="@r.Description" />
+                            <input type="hidden" name="cookingTime" value="@r.CookingTime" />
+                            <input type="hidden" name="image" value="@r.Image" />
+                            <input type="hidden" name="instructions" value="@r.Instructions" />
+                            <input type="hidden" name="recipeId" value="@r.RecipeId" />
+                            <input type="hidden" name="categoryName" value="@r.CategoryName" />
+
+                            <a href="/OneRecipe?RecipeId=@r.RecipeId" class="line_btn">View Full Recipe</a>
+                        </form>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
